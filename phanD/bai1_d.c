@@ -5,5 +5,6 @@
 
 int main(){
     printf("1.d\n");
+    printf("hello\n");
 }
 
